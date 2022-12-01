@@ -33,7 +33,7 @@ void getrequests(string IDsearch)// fetches requests for certain repairperson ba
 			}
 			if (savethese == true)
 			{
-				requestbox->AppendString(l);
+				cout<<l<<endl;
 			}
 		}
 	}
