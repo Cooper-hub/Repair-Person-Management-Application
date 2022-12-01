@@ -6,3 +6,6 @@ Here is a good video tutorial to follow for step 1: https://www.youtube.com/watc
 - Step 2: Download the source files and open the visual studio project
 - Step 3: Ensure all dependencies are correct
 - Step 4: Run program and enjoy
+
+
+Here is an instruction/demonstration video showing the code running: https://youtu.be/b7BrBOr3NtA
